@@ -1,0 +1,4 @@
+data/MNIST/*
+experiments/*
+*.pyc
+*.pth
