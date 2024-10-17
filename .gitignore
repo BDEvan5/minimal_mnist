@@ -2,3 +2,7 @@ data/MNIST/*
 experiments/*
 *.pyc
 *.pth
+
+# sandbox files
+Dockerfile
+run.sh
